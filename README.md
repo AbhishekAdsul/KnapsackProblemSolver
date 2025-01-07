@@ -14,6 +14,8 @@ Responsive Design: Designed for optimal usability across devices.
 
 Cross-Origin Support: Allows seamless integration with external applications.
 
+![output](https://github.com/user-attachments/assets/3968a452-e886-4bcc-af12-d458401fa1ef)
+
 # Technologies Used:
 Backend: Java, Spring Boot
 Frontend: HTML, CSS, JavaScript
